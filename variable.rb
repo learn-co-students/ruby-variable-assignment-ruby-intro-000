@@ -1,2 +1,2 @@
- # Define a local variable called 'greeting',
+puts greeting = "Hello World" # Defne a local variable called 'greeting',
  # give it the value of the string "Hello World"
