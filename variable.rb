@@ -1,2 +1,1 @@
-variable.rb "greeting" = "Hello World"
- "Hello World"
+"greeting" = "Hello World"
