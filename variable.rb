@@ -1,2 +1,3 @@
- # Define a local variable called 'greeting',
+greeting = "Hello World" # Def
+
  # give it the value of the string "Hello World"
