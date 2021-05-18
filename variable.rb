@@ -1,2 +1,3 @@
- # Define a local variable called 'greeting',
- # give it the value of the string "Hello World"
+./spec/spec_helper.rb:1:in
+greeting="Hello World"
+'../variable.rb'
